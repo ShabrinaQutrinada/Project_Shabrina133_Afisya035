@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Maze Game FIX.iml" filepath="$PROJECT_DIR$/Maze Game FIX.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Maze/Maze.iml" filepath="$PROJECT_DIR$/Maze/Maze.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Project_Shabrina133_Afisya035.iml" filepath="$PROJECT_DIR$/Project_Shabrina133_Afisya035.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Snake Ladder/Snake Ladder.iml" filepath="$PROJECT_DIR$/Snake Ladder/Snake Ladder.iml" />
     </modules>
   </component>
 </project>

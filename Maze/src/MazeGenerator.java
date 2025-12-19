@@ -40,9 +40,7 @@ public class MazeGenerator {
             }
         }
 
-        // 2. MODIFIKASI: Hapus beberapa dinding acak untuk jalur alternatif
-        // Ini yang membuat Dijkstra dan BFS bisa memberikan hasil yang berbeda
-        int extraPaths = (rows * cols) / 10; // Sekitar 10% dinding tambahan dibuka
+        int extraPaths = (rows * cols) / 10;
         for (int i = 0; i < extraPaths; i++) {
             int r = random.nextInt(rows - 2) + 1;
             int c = random.nextInt(cols - 2) + 1;
